@@ -28,3 +28,24 @@ void draw() {
  endShape();
 
 }
+
+
+float[] circleA;
+
+float[] circleB = new float[2];
+
+float[] circleC = {150, 150};
+
+float[] circleD;
+
+float[] circleE = new float[2];
+
+float[] circleF = {150, 150};
+
+float[] circleG;
+
+float[] circleH = new float[2];
+
+float[] circleI = {150, 150};
+
+float[] circleJ;
