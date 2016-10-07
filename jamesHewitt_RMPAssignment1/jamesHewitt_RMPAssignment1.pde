@@ -49,3 +49,27 @@ float[] circleH = new float[2];
 float[] circleI = {150, 150};
 
 float[] circleJ;
+
+float[] circleK = new float[2];
+
+float[] circleL = {150, 150};
+
+float[] circleM;
+
+float[] circleN = new float[2];
+
+float[] circleO = {150, 150};
+
+float[] circleP;
+
+float[] circleQ= new float[2];
+
+float[] circleR = {150, 150};
+
+float[] circleS;
+
+
+float[] circleT = new float[2];
+
+//2dArray
+float[][] allCircles = new float[20][];
