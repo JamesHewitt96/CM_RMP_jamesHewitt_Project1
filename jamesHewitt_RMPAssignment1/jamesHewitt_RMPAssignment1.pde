@@ -144,4 +144,29 @@ void setup() {
   circleT[0] = 300;
   circleT[1] = 300;
   
+  allCircles[0] = circleA;
+  allCircles[1] = circleB;
+  allCircles[2] = circleC;
+  allCircles[3] = circleD;
+  allCircles[4] = circleE;
+  allCircles[5] = circleF;
+  allCircles[6] = circleG;
+  allCircles[7] = circleH;
+  allCircles[8] = circleI;
+  allCircles[9] = circleJ;
+  allCircles[10] = circleK;
+  allCircles[11] = circleL;
+  allCircles[12] = circleM;
+  allCircles[13] = circleN;
+  allCircles[14] = circleO;
+  allCircles[15] = circleP;
+  allCircles[16] = circleQ;
+  allCircles[17] = circleR;
+  allCircles[18] = circleS;
+  allCircles[19] = circleT;
+  
+  
+  
+  size(400, 400);
+  background(122);
 }
