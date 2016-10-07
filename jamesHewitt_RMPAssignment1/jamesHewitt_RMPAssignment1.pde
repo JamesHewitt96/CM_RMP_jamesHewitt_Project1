@@ -16,4 +16,15 @@ void draw() {
    fill(255);
  }
  ellipse(mouseX, mouseY, 80, 80);
+ ellipse(mouseX -15, mouseY-15, 20, 20);
+ ellipse(mouseX +15, mouseY-15, 20, 20);
+ arc(mouseX, mouseY,  20, 20, -HALF_PI, HALF_PI);
+ beginShape();
+ curveVertex(mouseX -20, mouseY +12); // control point
+ curveVertex(mouseX -20, mouseY +12); // start
+ curveVertex(mouseX +5, mouseY +20); //middle 
+ curveVertex(mouseX +20, mouseY +12); //end 
+ curveVertex(mouseX +20, mouseY +12); //end conrol point
+ endShape();
+
 }
